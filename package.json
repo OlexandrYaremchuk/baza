@@ -1,5 +1,6 @@
 {
   "name": "baza",
+  "home-page": "https://github.com/OlexandrYaremchuk/baza",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
