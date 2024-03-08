@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OlexandrYaremchuk/baza/static/css/main.f855e6bc.css",
+    "main.js": "/OlexandrYaremchuk/baza/static/js/main.a2f7bbec.js",
+    "index.html": "/OlexandrYaremchuk/baza/index.html",
+    "main.f855e6bc.css.map": "/OlexandrYaremchuk/baza/static/css/main.f855e6bc.css.map",
+    "main.a2f7bbec.js.map": "/OlexandrYaremchuk/baza/static/js/main.a2f7bbec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a2f7bbec.js"
+  ]
+}
